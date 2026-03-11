@@ -1,1 +1,9 @@
+# Core dependencies (keep minimal at start)
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.8
+shapely>=2.0
 
+# Optional (uncomment when needed)
+# ortools>=9.8
